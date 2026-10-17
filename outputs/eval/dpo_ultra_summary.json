@@ -1,0 +1,74 @@
+{
+  "candidate": "dpo",
+  "sample_count": 300,
+  "wins": 113,
+  "losses": 140,
+  "ties": 45,
+  "unknown": 2,
+  "failures": 0,
+  "win_rate_including_ties": 0.37666666666666665,
+  "win_rate_excluding_ties": 0.44664031620553357,
+  "judge_model": "google/gemini-3.6-flash",
+  "by_category": {
+    "helpful_base": {
+      "candidate": "dpo",
+      "sample_count": 49,
+      "wins": 20,
+      "losses": 20,
+      "ties": 7,
+      "unknown": 2,
+      "failures": 0,
+      "win_rate_including_ties": 0.40816326530612246,
+      "win_rate_excluding_ties": 0.5,
+      "judge_model": "google/gemini-3.6-flash"
+    },
+    "koala": {
+      "candidate": "dpo",
+      "sample_count": 59,
+      "wins": 23,
+      "losses": 28,
+      "ties": 8,
+      "unknown": 0,
+      "failures": 0,
+      "win_rate_including_ties": 0.3898305084745763,
+      "win_rate_excluding_ties": 0.45098039215686275,
+      "judge_model": "google/gemini-3.6-flash"
+    },
+    "oasst": {
+      "candidate": "dpo",
+      "sample_count": 74,
+      "wins": 30,
+      "losses": 35,
+      "ties": 9,
+      "unknown": 0,
+      "failures": 0,
+      "win_rate_including_ties": 0.40540540540540543,
+      "win_rate_excluding_ties": 0.46153846153846156,
+      "judge_model": "google/gemini-3.6-flash"
+    },
+    "selfinstruct": {
+      "candidate": "dpo",
+      "sample_count": 93,
+      "wins": 31,
+      "losses": 41,
+      "ties": 21,
+      "unknown": 0,
+      "failures": 0,
+      "win_rate_including_ties": 0.3333333333333333,
+      "win_rate_excluding_ties": 0.4305555555555556,
+      "judge_model": "google/gemini-3.6-flash"
+    },
+    "vicuna": {
+      "candidate": "dpo",
+      "sample_count": 25,
+      "wins": 9,
+      "losses": 16,
+      "ties": 0,
+      "unknown": 0,
+      "failures": 0,
+      "win_rate_including_ties": 0.36,
+      "win_rate_excluding_ties": 0.36,
+      "judge_model": "google/gemini-3.6-flash"
+    }
+  }
+}

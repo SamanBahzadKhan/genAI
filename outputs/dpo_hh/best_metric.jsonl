@@ -1,0 +1,4 @@
+{"step": 100, "loss": 0.6642693801373243, "reward_accuracy": 0.609, "reward_margin": 0.1021743153873831}
+{"step": 200, "loss": 0.6522259731441736, "reward_accuracy": 0.611, "reward_margin": 0.15285925171896816}
+{"step": 300, "loss": 0.6494668660312891, "reward_accuracy": 0.618, "reward_margin": 0.16434111961955206}
+{"step": 400, "loss": 0.6560581562072039, "reward_accuracy": 0.623, "reward_margin": 0.17929190848208965}

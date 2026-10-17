@@ -1,0 +1,26 @@
+[
+  {
+    "id": "alpaca-42-0000",
+    "instruction": "can you write haiku for different inductive biases in deep learning models? start with attention",
+    "output": "Sure, here's an example of a haiku for different inductive biases in deep learning models:\n\n1. **Attention Bias**: \"The eyes of the mind, a lens of light, a mirror of the soul, a window to the heart.\"\n2. **Recurrent Bias**: \"The brain's neural network, a complex machine, a machine that learns from data.\"\n3. **Convolutional Bias**: \"The brain's neural network, a machine that learns from data, a machine that filters information.\"\n4. **Attention Bias**: \"The eyes of the mind, a lens of light, a mirror of the soul, a window to the heart.\"\n5. **Recurrent Bias**: \"The brain's neural network, a complex machine, a machine that learns from data.\"\n6. **Convolutional Bias**: \"The brain's neural network, a machine that learns from data, a machine that filters information.\"\n7. **Attention Bias**: \"The eyes of the mind, a lens of light, a mirror of the soul, a window to the heart.\"\n8. **Recurrent Bias**: \"The brain's neural network, a complex machine, a machine that learns from data.\"\n9. **Convolutional Bias**: \"The brain's neural network,",
+    "generator": "qwen2.5-0.5b-base",
+    "dataset": "alpaca_eval",
+    "category": "oasst"
+  },
+  {
+    "id": "alpaca-42-0001",
+    "instruction": "It would be helpful if you could suggest an acronym for the repository.\n\nA python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+    "output": "The acronym for the repository is \"NISQ\".",
+    "generator": "qwen2.5-0.5b-base",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct"
+  },
+  {
+    "id": "alpaca-42-0002",
+    "instruction": "Write a to-do list based on the given information.\n\nDaily tasks in the pharmacy",
+    "output": "Sure, here's a sample to-do list for the pharmacy:\n\n1. Check the inventory of medications and stock levels.\n2. Review the patient records and medication schedules.\n3. Schedule appointments with patients for medication refills.\n4. Check the availability of medications and stock levels.\n5. Review the patient records and medication schedules.\n6. Schedule appointments with patients for medication refills.\n7. Check the availability of medications and stock levels.\n8. Review the patient records and medication schedules.\n9. Schedule appointments with patients for medication refills.\n10. Check the availability of medications and stock levels.\n11. Review the patient records and medication schedules.\n12. Schedule appointments with patients for medication refills.\n13. Check the availability of medications and stock levels.\n14. Review the patient records and medication schedules.\n15. Schedule appointments with patients for medication refills.\n16. Check the availability of medications and stock levels.\n17. Review the patient records and medication schedules.\n18. Schedule appointments with patients for medication refills.\n19. Check the availability of medications and stock levels.\n20. Review the patient records and medication schedules.\n21. Schedule appointments with patients for medication refills.\n22. Check the availability of",
+    "generator": "qwen2.5-0.5b-base",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct"
+  }
+]

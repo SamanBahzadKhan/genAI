@@ -1,0 +1,62 @@
+{
+  "candidate": "lora",
+  "sample_count": 16,
+  "wins": 7,
+  "losses": 3,
+  "ties": 6,
+  "unknown": 0,
+  "failures": 0,
+  "win_rate_including_ties": 0.4375,
+  "win_rate_excluding_ties": 0.7,
+  "judge_model": "google/gemini-3.6-flash",
+  "by_category": {
+    "coding": {
+      "candidate": "lora",
+      "sample_count": 4,
+      "wins": 2,
+      "losses": 1,
+      "ties": 1,
+      "unknown": 0,
+      "failures": 0,
+      "win_rate_including_ties": 0.5,
+      "win_rate_excluding_ties": 0.6666666666666666,
+      "judge_model": "google/gemini-3.6-flash"
+    },
+    "cooking": {
+      "candidate": "lora",
+      "sample_count": 4,
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "unknown": 0,
+      "failures": 0,
+      "win_rate_including_ties": 0.75,
+      "win_rate_excluding_ties": 0.75,
+      "judge_model": "google/gemini-3.6-flash"
+    },
+    "general_help": {
+      "candidate": "lora",
+      "sample_count": 4,
+      "wins": 1,
+      "losses": 1,
+      "ties": 2,
+      "unknown": 0,
+      "failures": 0,
+      "win_rate_including_ties": 0.25,
+      "win_rate_excluding_ties": 0.5,
+      "judge_model": "google/gemini-3.6-flash"
+    },
+    "safety": {
+      "candidate": "lora",
+      "sample_count": 4,
+      "wins": 1,
+      "losses": 0,
+      "ties": 3,
+      "unknown": 0,
+      "failures": 0,
+      "win_rate_including_ties": 0.25,
+      "win_rate_excluding_ties": 1.0,
+      "judge_model": "google/gemini-3.6-flash"
+    }
+  }
+}

@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "alpaca-42-0000",
+    "instruction": "can you write haiku for different inductive biases in deep learning models? start with attention",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 439
+  },
+  {
+    "id": "alpaca-42-0001",
+    "instruction": "It would be helpful if you could suggest an acronym for the repository.\n\nA python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 549
+  },
+  {
+    "id": "alpaca-42-0002",
+    "instruction": "Write a to-do list based on the given information.\n\nDaily tasks in the pharmacy",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 594
+  },
+  {
+    "id": "alpaca-42-0003",
+    "instruction": "What is the james webb telescope",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 407
+  },
+  {
+    "id": "alpaca-42-0004",
+    "instruction": "Write a C++ function that takes a reference to a std::string containing markdown formatted text and returns a std::string containing html formatted text.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 358
+  },
+  {
+    "id": "alpaca-42-0005",
+    "instruction": "antennas that transmit an equal amount of energy in the horizontal direction are called",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 164
+  },
+  {
+    "id": "alpaca-42-0006",
+    "instruction": "In this math problem, we are asked to figure out the percentage of total profits that are made in each quarter. They are 90% in the first quarter, 92% in the second quarter, 81% in the third quarter and 88% in the fourth quarter. What is the total profit percent over a period of time, based upon these quarters?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 172
+  },
+  {
+    "id": "alpaca-42-0007",
+    "instruction": "You are provided with a description of the code, specifications, or prompts. Your help is needed in automating code generation to speed up the development process.\n\npython function to determine whether a number is prime.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 486
+  },
+  {
+    "id": "alpaca-42-0008",
+    "instruction": "React properly to reviews from your customers. In your responses, you can highlight your business' policies and customer service.\n\nAnother repeat visit and no disappointment from us. Great place for breakfast or brunch - and you won't need to eat again for awhile. The restaurant is close to the Tenderloin so be aware of your surroundings.\nWe enjoyed the Succotash Omelet (at least my wife enjoyed it), the Pulled Pork Benedict and the Hangtown Fry. Portions are large and pricing is fair. I wish we could have managed a Beignet Flight!\nDefinitely a spot to seek out. It can be crowed at times so be patient. Well worth any wait.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 526
+  },
+  {
+    "id": "alpaca-42-0009",
+    "instruction": "convert December 21 · 1:00 – 1:50pm pacific to asia/taipei time",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 133
+  },
+  {
+    "id": "alpaca-42-0010",
+    "instruction": "Pretend to be a business professional. Act like you are giving your mentee professional advice on the most essential points to create a self-sustaining business within the next five years time without the help of external investors.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 445
+  },
+  {
+    "id": "alpaca-42-0011",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Opor Ayam?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 77
+  },
+  {
+    "id": "alpaca-42-0012",
+    "instruction": "question about Computer architecture and organization \nfor 6 marks\nwhat in general terms is the distinction between computer organization and computer architecture ?\ngive answer in full sentence points if possible",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 222
+  },
+  {
+    "id": "alpaca-42-0013",
+    "instruction": "What is a scary Halloween costume idea?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 101
+  },
+  {
+    "id": "alpaca-42-0014",
+    "instruction": "Are you as capable as ChatGPT?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 423
+  },
+  {
+    "id": "alpaca-42-0015",
+    "instruction": "write lyrics that only rhyme a little bit (not every verse needs rhyming or exact pacing), for a progressive metal song about loving jesus",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 219
+  },
+  {
+    "id": "alpaca-42-0016",
+    "instruction": "Give the provided brand a motto to use as a part of its marketing strategies.\n\nThe Ice cream shop is a small, quaint shop located in the heart of the historic district. They offer a variety of ice cream flavors, as well as Italian ice, gelato, and sorbet. The shop has a few tables and chairs, but most of their business is to-go. They offer a loyalty program where you can get a free scoop of ice cream after 10 purchases.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 545
+  },
+  {
+    "id": "alpaca-42-0017",
+    "instruction": "Write a funny, interesting, inspiring poem for Women's Day.",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 282
+  },
+  {
+    "id": "alpaca-42-0018",
+    "instruction": "You will be asked to answer the following question as part of the LinkedIn Skill assessments.\n\nYou find that your project has a tag and branch both named push-notifications, which causes confusion when trying to print out given reference. How can you specify which branch you want to look at?",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 500
+  },
+  {
+    "id": "alpaca-42-0019",
+    "instruction": "Currently, there is a chat in which people are arranging a meeting in the future. Retrieve the meeting information from the conversation.\n\nPerson 1: Hey, when are you free? I'd like to meet up.\nPerson 2: I'm free tomorrow afternoon.\nPerson 1: Great, what time?\nPerson 2: How about 3 pm?\nPerson 1: I have another meeting at that time. what about 5 pm?\nPerson 2: That works. Where should we meet?\nPerson 1: How about the coffee shop on Main Street?\nPerson 2: Sounds good. I've heard they have great coffee there. See you tomorrow!",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 630
+  },
+  {
+    "id": "alpaca-42-0020",
+    "instruction": "Marie is at the music store for a store day. She bought two $50 combos. Then, for $25 she bought two t-shirts for $5 each and five hoodies for $2 each. Then, she bought sneakers for $8 each. How much did she spend total?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 149
+  },
+  {
+    "id": "alpaca-42-0021",
+    "instruction": "Convert the given description to a bash command.\n\nread the first 10 lines from f",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 663
+  },
+  {
+    "id": "alpaca-42-0022",
+    "instruction": "what language does argentina people speak",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 210
+  },
+  {
+    "id": "alpaca-42-0023",
+    "instruction": "Please let me know your thoughts on the given place and why you think it deserves to be visited.\n\nBarcelona, Spain",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 557
+  },
+  {
+    "id": "alpaca-42-0024",
+    "instruction": "Hi, I'm interested in learning to play badminton. Can you explain the game to me?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 17
+  },
+  {
+    "id": "alpaca-42-0025",
+    "instruction": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 6
+  },
+  {
+    "id": "alpaca-42-0026",
+    "instruction": "Provide a detailed explanation of the steps that are required in order to construct the given project.\n\nSteam Engine Using an Empty Beer Can",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 586
+  },
+  {
+    "id": "alpaca-42-0027",
+    "instruction": "How do I build a PC?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 289
+  },
+  {
+    "id": "alpaca-42-0028",
+    "instruction": "How do I know if my house has a water leak?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 75
+  },
+  {
+    "id": "alpaca-42-0029",
+    "instruction": "I’m planning to visit Okinawa Japan from April 7th to April 10th. Do you have any recommendation on what to do while I’m there?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 145
+  },
+  {
+    "id": "alpaca-42-0030",
+    "instruction": "Categorize the Business into one of the Restaurants, Home Services, Auto Services and Miscellaneous based on its Specialties.\n\nCall us at 650-636-4884 or visit our website to receive a quote. This shop specializes in New Tires and General Auto Repair. We carry all tires in-house and have a wide range to fit any budget or car specifics. If you are unsure what tires you need there are experts on hand and available to help you pick the best tire for your needs. We also carry commercial vehicle tires and can serve a wide array of fleets.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 708
+  },
+  {
+    "id": "alpaca-42-0031",
+    "instruction": "Is there a true, most ethical response to the Trolley Problem, in which a person can either sacrifice the lives of 5 people, by not pulling a lever, or sacrifice the life of 1 person, but have to pull the lever themselves, thus directly causing that death by action, rather than causing 5 deaths, but by inaction?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 364
+  },
+  {
+    "id": "alpaca-42-0032",
+    "instruction": "can you please create a python script that outputs a derivative using The Average Rate of Change Formula A(x) = f(b)-f(a) /(b-a) when x is user input",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 313
+  },
+  {
+    "id": "alpaca-42-0033",
+    "instruction": "How did mankind discover that the earth was spherical, and why did they initially believe it to be flat?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 42
+  },
+  {
+    "id": "alpaca-42-0034",
+    "instruction": "Who is the President of Germany?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 424
+  },
+  {
+    "id": "alpaca-42-0035",
+    "instruction": "Why can time seem to slow down in dangerous situations?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 383
+  },
+  {
+    "id": "alpaca-42-0036",
+    "instruction": "List the layers of the TCP/IP model and for each layer identify one protocol.",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 131
+  },
+  {
+    "id": "alpaca-42-0037",
+    "instruction": "How do I dice without slicing my finger",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 5
+  },
+  {
+    "id": "alpaca-42-0038",
+    "instruction": "Why do some people enjoy the sensation of being scared, such as by watching horror movies or going on roller coasters, while others avoid these experiences?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 761
+  },
+  {
+    "id": "alpaca-42-0039",
+    "instruction": "Write a whitepaper for our Decentralized hedge fund - Kunji",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 369
+  },
+  {
+    "id": "alpaca-42-0040",
+    "instruction": "How can cryptocurrencies be improved and completely revamped/",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 397
+  },
+  {
+    "id": "alpaca-42-0041",
+    "instruction": "Provide a name for the dish given the ingredients and instructions.\n\nINGREDIENTS:\n2 (5 oz) cans Bumble Bee® Solid White Albacore Tuna, drained\n1 avocado\n2 Tbsp Sriracha\n1 Tbsp Dijon mustard\n2 to 3 Tbsp celery, chopped\n2 Tbsp red onion, chopped\n2 green onions, chopped\n1 Tbsp fresh cilantro, chopped\nSalt and pepper, to taste\n2 heaping cups leafy green lettuce\n1 cup matchstick carrots\n4 (10 inch) whole wheat tortillas\nINSTRUCTIONS:\nIn a medium bowl, mash together tuna and avocado until combined. Add in the rest of the ingredients through the salt and pepper, mixing well.\nTo assemble, top each tortilla with a 1/2 cup leafy greens, 1/4 cup matchstick carrots and divide the tuna mixture evenly among the wraps. Tightly roll up the tortilla, slice and enjoy!",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 674
+  },
+  {
+    "id": "alpaca-42-0042",
+    "instruction": "This is a test for the reading ability of French. Read the given story carefully, and then answer the question in the end.\n\nLucie est à la maison avec sa petite-fille, Lin.\nLucie: Oh, non! Nous n'avons pas de pain!\nLin: Ah! Tu vas au supermarché?\nLucie: Oui, je veux une baguette pour mon sandwich.\nDo Lin and Lucie have a lot of bread?",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 600
+  },
+  {
+    "id": "alpaca-42-0043",
+    "instruction": "Should I get my children a nanny? I'm so exhausted.",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 39
+  },
+  {
+    "id": "alpaca-42-0044",
+    "instruction": "What is the output of the given LATEX code?\n\n\\documentclass{article}\n\\begin{document}\nFirst document. This is a simple example, with no \nextra parameters or packages included.\n\\end{document}",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 513
+  },
+  {
+    "id": "alpaca-42-0045",
+    "instruction": "I am an aikido teacher and student of Tomita Seiji who is living in Belgium. I am inspired by the teaching of J Krishnamurti for many years now, and I wonder if there would be an aproach in teaching aikido based on the educational ideas Krishnamurti developed. Can you suggested some posibilities in a concise way?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 226
+  },
+  {
+    "id": "alpaca-42-0046",
+    "instruction": "We are playing 5e D&amp;D. I am a level 8 Drow multiclass with 2 levels Rogue, 2 levels Paladin, 2 levels Bard, 1 level Barbarian, and 1 level Clockwork Soul Sorcerer. I am fighting Yugoloths in Gehenna. I roll to attack them with my +1 Rapier. Does a 24 hit?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 266
+  },
+  {
+    "id": "alpaca-42-0047",
+    "instruction": "Hi, I have a question about MFCC (mel frequency cepstral coefficients). Are they the same thing as a MEL-spectogram, or is there a difference?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 166
+  },
+  {
+    "id": "alpaca-42-0048",
+    "instruction": "Mick pays his teacher $800 for 40 lessons worth 2 hours each. If this will be all he is going to pay for his lessons, how much did he receive?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 150
+  },
+  {
+    "id": "alpaca-42-0049",
+    "instruction": "It's officially 2023, and as we enter a brand new year, what better time to set up our revenue enablement goals for the new year in our Above Goal and Concierge Tools [    ] challenge learn the day-to-day tactics needed to live your best, healthiest life, while exceeding your business performance goals, as we enter this new season.<br><br>Can you come up with a two word name for the challenge akin to \"Live Well\" and fit it in the bracket above?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 190
+  },
+  {
+    "id": "alpaca-42-0050",
+    "instruction": "Come up with the courses that one is supposed to take in order to be an expert in a given field.\n\nGraphic Design",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 579
+  },
+  {
+    "id": "alpaca-42-0051",
+    "instruction": "How can I improve my time management skills?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 725
+  },
+  {
+    "id": "alpaca-42-0052",
+    "instruction": "Prove the given statement using your information.\n\n\"If x is a positive integer or a solution to x+3>4, then x>0 and x>12.\"",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 614
+  },
+  {
+    "id": "alpaca-42-0053",
+    "instruction": "Rewrite the given introductory paragraph so that it starts with a pertinent anecdote. Also rewrite the thesis so that it is succinct and concise:    \"Many types of black people have different cultural backgrounds and experiences. For example, African and African American cultures share a common ancestry and history of struggles but have distinct cultural identities. While both groups are considered Black, they have different experiences, records, and cultural practices. As Saint Augustine said, “The world is a book, and those who do not travel read only a page.” This quote emphasizes the importance of exploring other cultures to understand their experiences better. As I have gotten older, I have come to understand the similarities and differences between these two individuals.\"",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 251
+  },
+  {
+    "id": "alpaca-42-0054",
+    "instruction": "What is the name of the windows XP background image?\nWhere was it taken and by who?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 446
+  },
+  {
+    "id": "alpaca-42-0055",
+    "instruction": "Make a list of snacks and foods to serve as party snacks on a game day!",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 603
+  },
+  {
+    "id": "alpaca-42-0056",
+    "instruction": "Make a list of outdoor activities that are suitable for the given weather condition.\n\nTemperature: 57 F, Showers",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 591
+  },
+  {
+    "id": "alpaca-42-0057",
+    "instruction": "List some of the top real estate marketing words to add value to the listing and engage more potential buyers.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 687
+  },
+  {
+    "id": "alpaca-42-0058",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Tahu Gejrot Cirebon?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 100
+  },
+  {
+    "id": "alpaca-42-0059",
+    "instruction": "Explain why landlords can be considered superior to their tenants",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 453
+  },
+  {
+    "id": "alpaca-42-0060",
+    "instruction": "When approaching a technical problem which I am not familiar with, I feel scared for a bit. How do you think would a good method for me to approach these kinds of problems? Here is some more information about me that might help you; I like writing and use Swiss cheese method for writing around topics.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 306
+  },
+  {
+    "id": "alpaca-42-0061",
+    "instruction": "Best way to defrost a refrigerator freezer?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 73
+  },
+  {
+    "id": "alpaca-42-0062",
+    "instruction": "“One One was a race horse Two Two was one too. One One won one race. Two Two won one too.” How many horses are in this story?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 168
+  },
+  {
+    "id": "alpaca-42-0063",
+    "instruction": "Has there been any news regarding a potential release date for Starcraft 3?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 122
+  },
+  {
+    "id": "alpaca-42-0064",
+    "instruction": "Give me some impression of what the world was like in 1950. What were the current-day inventions back then?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 334
+  },
+  {
+    "id": "alpaca-42-0065",
+    "instruction": "Given a sentence that may be ambiguous, rewrite the sentence using less ambiguous words.\n\nThe chicken is ready to eat.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 666
+  },
+  {
+    "id": "alpaca-42-0066",
+    "instruction": "Create a brief resume introduction using the following information.\n\nname: Mark\nnationality: Italian\nlanguage: English\nattributes: creative, goal-oriented, motivated\nskills: software engineering, content marketing",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 680
+  },
+  {
+    "id": "alpaca-42-0067",
+    "instruction": "A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. Write a user story for a given software.\n\nGmail",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 691
+  },
+  {
+    "id": "alpaca-42-0068",
+    "instruction": "Regex is a set of characters that define a search pattern. This kind of pattern is usually used by string-searching algorithms to find or replace strings or to validate inputs. Convert the natural english text to regex.\n\nMatch a valid ip address",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 683
+  },
+  {
+    "id": "alpaca-42-0069",
+    "instruction": "Can you help me understand how I can estimate the variance of a variable?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 341
+  },
+  {
+    "id": "alpaca-42-0070",
+    "instruction": "Write a short analysis of the cinematography in the movie.\n\nDead Poets Society",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 556
+  },
+  {
+    "id": "alpaca-42-0071",
+    "instruction": "Classify the tweet into one of the following three categories: event, demo, or news. Event is a happening, often social or public, that people attend or are aware of. Demo is a  public showing or presentation of something, typically to promote or advertise it. And, news is information about recent events or happenings, especially as reported by news media.\n\nUsing this tutorial, you can analyze and classify a user’s review as either positive or negative using sentiment analysis features in an existing Next.js app. We show you how to leverage language AI into your applications. Check it out ↓",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 637
+  },
+  {
+    "id": "alpaca-42-0072",
+    "instruction": "Write a section for a blog post and try to cover all of the provided information about this section in your text.\n\nBlog Topic: 7 Fall Fashion Trends Worth Taking on Your Trip\nSection Title: Trusty Jeans\nMain point of the section: jeans can be worn all year and look good with everything .",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 533
+  },
+  {
+    "id": "alpaca-42-0073",
+    "instruction": "Act like a first-year college student and write a 1000-1250 word two-topic essay by using at least three points of analysis. Topic 1 is my experiences living in and observations of  Flagstaff, Arizona.   Topic 2 is my experiences living in and observations of  Kaneohe, Hawaii. Use quotes from two sources in the essay. Use descriptive language.  Include personal anecdotes.  These sources will be listed in a Works Cited at the end of the essay. Use a four in-text citations in MLA style in the body of the essay.",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 203
+  },
+  {
+    "id": "alpaca-42-0074",
+    "instruction": "I have two remote Debian servers, A and B. How can I copy a directory of files at `~/Documents/training_results` existing on server A to the path `~/training_results` on server B? I have SSH access on my local laptop to each of the servers, but neither of the servers have SSH access to the other.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 347
+  },
+  {
+    "id": "alpaca-42-0075",
+    "instruction": "Give some examples of what people usually say in the given social situation.\n\nwhen someone arrives safely",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 641
+  },
+  {
+    "id": "alpaca-42-0076",
+    "instruction": "Please tell me the history of Walt Disney.",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 60
+  },
+  {
+    "id": "alpaca-42-0077",
+    "instruction": "what are some big cat hybrids?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 119
+  },
+  {
+    "id": "alpaca-42-0078",
+    "instruction": "Mike's mother had four kids. Three of them are named Luis, Drake, and Matilda. What is the name of the fourth kid?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 333
+  },
+  {
+    "id": "alpaca-42-0079",
+    "instruction": "Summarize a meeting from the given list of bullet points. Be sure to convert shorthand into a first-hand account.\n\nRose: Analyze data and presents findings\nJohn: propose new idea\nJane: appointed to head project\nTom: need more time to fix software bug",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 675
+  },
+  {
+    "id": "alpaca-42-0080",
+    "instruction": "How would the Future of AI in 10 Years look?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 287
+  },
+  {
+    "id": "alpaca-42-0081",
+    "instruction": "How many snowflakes fall during a typical winter? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 771
+  },
+  {
+    "id": "alpaca-42-0082",
+    "instruction": "List the pieces of a reinforcement learning system that can learn how to play Atari games.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 382
+  },
+  {
+    "id": "alpaca-42-0083",
+    "instruction": "What is a Dyson Sphere?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 368
+  },
+  {
+    "id": "alpaca-42-0084",
+    "instruction": "Write code for a Discord bot using Discord.js v14. The bot has one command, ban. All commands are slash commands.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 320
+  },
+  {
+    "id": "alpaca-42-0085",
+    "instruction": "Why did the building of a pipeline have to be voted on by the government(USA)? Doesn't this infringe on government interfering with private corporations?<br>",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 233
+  },
+  {
+    "id": "alpaca-42-0086",
+    "instruction": "How do I check my system drive for errors on Windows?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 400
+  },
+  {
+    "id": "alpaca-42-0087",
+    "instruction": "which libraries are the best for developing deep learning scripts in python?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 297
+  },
+  {
+    "id": "alpaca-42-0088",
+    "instruction": "how does two factor authentication work?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 463
+  },
+  {
+    "id": "alpaca-42-0089",
+    "instruction": "In relation to the given weather scenario, give some tips on how to adjust the travel plans with it.\n\na sudden temperature change",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 593
+  },
+  {
+    "id": "alpaca-42-0090",
+    "instruction": "You are given a search query and a document. Classify whether the document is relevant to the search query or not relevant.\n\nSearch: why sky is blue\nDocument: The Short Answer: Sunlight reaches Earth's atmosphere and is scattered in all directions by all the gases and particles in the air. Blue light is scattered more than the other colors because it travels as shorter, smaller waves. This is why we see a blue sky most of the time.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 670
+  },
+  {
+    "id": "alpaca-42-0091",
+    "instruction": "Using critical thinking methods, how would you approach and solve the following problem: A local restaurant is experiencing a decrease in customers, and the owner wants to understand the cause and find a solution. What steps would you take to gather information, analyze the situation, and develop potential solutions?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 450
+  },
+  {
+    "id": "alpaca-42-0092",
+    "instruction": "How can I increase my productivity while working from home?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 728
+  },
+  {
+    "id": "alpaca-42-0093",
+    "instruction": "Why might someone choose to use a paper map or ask for directions instead of relying on a GPS device or smartphone app?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 757
+  },
+  {
+    "id": "alpaca-42-0094",
+    "instruction": "Write the HTML syntax for the required action.\n\nadding an image to the page",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 715
+  },
+  {
+    "id": "alpaca-42-0095",
+    "instruction": "How do polar bears stay warm in Arctic winters?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 346
+  },
+  {
+    "id": "alpaca-42-0096",
+    "instruction": "A statistical model is a mathematical model that embodies a set of statistical assumptions concerning the generation of sample data (and similar data from a larger population). A statistical model represents, often in considerably idealized form, the data-generating process.\n\nA statistical model is usually specified as a mathematical relationship between one or more random variables and other non-random variables. As such, a statistical model is \"a formal representation of a theory\" (Herman Adèr quoting Kenneth Bollen).\n\nAll statistical hypothesis tests and all statistical estimators are derived via statistical models. More generally, statistical models are part of the foundation of statistical inference.\n\nCould you explain each sentence in simple terms?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 321
+  },
+  {
+    "id": "alpaca-42-0097",
+    "instruction": "In minecraft, what are the best ways to farm experience quickly? Name pros and cons",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 413
+  },
+  {
+    "id": "alpaca-42-0098",
+    "instruction": "As a superhero, how would you explain your origin story to a curious child?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 748
+  },
+  {
+    "id": "alpaca-42-0099",
+    "instruction": "how much of a threat is climate change in the coming years, and what should we do to stop it?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 256
+  },
+  {
+    "id": "alpaca-42-0100",
+    "instruction": "Is a thumb war violent?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 375
+  },
+  {
+    "id": "alpaca-42-0101",
+    "instruction": "What are some  good books to buy for a sci fi fan?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 90
+  },
+  {
+    "id": "alpaca-42-0102",
+    "instruction": "Think of alternatives and paraphrases for the underlined word.\n\nwhat we have _expected",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 495
+  },
+  {
+    "id": "alpaca-42-0103",
+    "instruction": "What are some Nietzsche's philosophical ideas that still influence modern-day culture?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 394
+  },
+  {
+    "id": "alpaca-42-0104",
+    "instruction": "Make a list of the materials that will be required to build the given tool.\n\nCoffee Darkness Meter",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 585
+  },
+  {
+    "id": "alpaca-42-0105",
+    "instruction": "AI assistant. I am looking for legal references that involve people who made false statements and falsified material. Such as once that I have heard of. That falsified the signatures and testimony of more than 200 doctors. And relationship. To a large false claim. Utilized. To make marijuana illegal. AI assistant. Could you help me? Find this reference.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 327
+  },
+  {
+    "id": "alpaca-42-0106",
+    "instruction": "You are given a paper citation, convert it to the requested citation style.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 476
+  },
+  {
+    "id": "alpaca-42-0107",
+    "instruction": "Look for poems that mention the given object or character. The names of the poems and their poets should be written.\n\nsanta claus",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 625
+  },
+  {
+    "id": "alpaca-42-0108",
+    "instruction": "Please list the courses that someone interested in the first course might like.\n\nBitcoin and Cryptocurrency Technologies",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 578
+  },
+  {
+    "id": "alpaca-42-0109",
+    "instruction": "How many pages are in all the books ever written? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 772
+  },
+  {
+    "id": "alpaca-42-0110",
+    "instruction": "What if Alan Turing had not cracked the Enigma code during World War II?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 780
+  },
+  {
+    "id": "alpaca-42-0111",
+    "instruction": "Give me the list of top 100 tech categories",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 265
+  },
+  {
+    "id": "alpaca-42-0112",
+    "instruction": "My friend's dog just died and they're really sad. How do I comfort them?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 127
+  },
+  {
+    "id": "alpaca-42-0113",
+    "instruction": "Why is it a bad idea to give a mouse a cookie?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 173
+  },
+  {
+    "id": "alpaca-42-0114",
+    "instruction": "I have competencies in remote sensing, machine learning, and water resource knowledge, what are the possible jobs I can occupy? What are the possible projects I can do? What companies I can work at?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 281
+  },
+  {
+    "id": "alpaca-42-0115",
+    "instruction": "How many days is it until Christmas?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 461
+  },
+  {
+    "id": "alpaca-42-0116",
+    "instruction": "What are the main methods used by car manufacturers to reduce emissions in their ICE cars besides trying to lower the amount of fuel the engine uses?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 425
+  },
+  {
+    "id": "alpaca-42-0117",
+    "instruction": "Can you tell me a very easy to way clean a showerhead?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 69
+  },
+  {
+    "id": "alpaca-42-0118",
+    "instruction": "What is the capital of Australia?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 370
+  },
+  {
+    "id": "alpaca-42-0119",
+    "instruction": "You are given a question and two possible answers. The task is to evaluate each answer and determine if it is correct. If incorrect, explain why.\n\nIs there a way of reading one single character from the user input? For instance, they press one key at the terminal and it is returned (sort of like getch()). I know there's a function in Windows for it, but I'd like something that is cross-platform.\nAnswer 1: Here's a link to the ActiveState Recipes site that says how you can read a single character in Windows, Linux and OSX :\nhttps://code.activestate.com/recipes/134892/\nAnswer 2: if you just want to hold the screen so you can see the result on the terminal just write `input()` at the end of the code and it will hold the screen",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 563
+  },
+  {
+    "id": "alpaca-42-0120",
+    "instruction": "Write a script for a YouTube video exploring the history and cultural significance of jazz.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 800
+  },
+  {
+    "id": "alpaca-42-0121",
+    "instruction": "Based on the given keywords, write a review of a restaurant.\n\nName: Pizzeria\ngood prices, quiet place, tasty, nice staff",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 696
+  },
+  {
+    "id": "alpaca-42-0122",
+    "instruction": "Pretend to be a world-famous chef. How would you describe your signature dish to a panel of judges?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 751
+  },
+  {
+    "id": "alpaca-42-0123",
+    "instruction": "Are there any weird Christmas traditions?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 16
+  },
+  {
+    "id": "alpaca-42-0124",
+    "instruction": "I'd like you to write me a story in the style of Don Delillo, about a bunch of immortal cats living in a New York high-rise co-op.  Go ahead and start a draft!",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 110
+  },
+  {
+    "id": "alpaca-42-0125",
+    "instruction": "Describe a scenario where artificial intelligence could be used to improve the quality and efficiency of healthcare delivery.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 739
+  },
+  {
+    "id": "alpaca-42-0126",
+    "instruction": "Answer the following question.\n\nHow do I compare strings in Java?\nI've been using the == operator in my program to compare all my strings so far. However, I ran into a bug, changed one of them into .equals() instead, and it fixed the bug.\nIs == bad? When should it and should it not be used? What's the difference?",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 562
+  },
+  {
+    "id": "alpaca-42-0127",
+    "instruction": "Hi, I'd like to play ice hockey. Can you explain how the game works?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 87
+  },
+  {
+    "id": "alpaca-42-0128",
+    "instruction": "Who made Berlin",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 292
+  },
+  {
+    "id": "alpaca-42-0129",
+    "instruction": "When was Canada colonized?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 40
+  },
+  {
+    "id": "alpaca-42-0130",
+    "instruction": "In the event that a person enjoyed the book that was given, please suggest other books that they might also like.\n\nThe Great Gatsby",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 611
+  },
+  {
+    "id": "alpaca-42-0131",
+    "instruction": "do you think retinoid is effective on removing the acne? because I have a lot of it",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 10
+  },
+  {
+    "id": "alpaca-42-0132",
+    "instruction": "What is kevlar made out of?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 88
+  },
+  {
+    "id": "alpaca-42-0133",
+    "instruction": "Give a brief description of the given category of movies and shows.\n\nPeriod Dramas",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 510
+  },
+  {
+    "id": "alpaca-42-0134",
+    "instruction": "Can we find a formula to generate all prime numbers, and is the distribution of primes truly random?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 443
+  },
+  {
+    "id": "alpaca-42-0135",
+    "instruction": "can stainless steel be magnetic in some instances?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 314
+  },
+  {
+    "id": "alpaca-42-0136",
+    "instruction": "How many lightning strikes occur on Earth each day? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 767
+  },
+  {
+    "id": "alpaca-42-0137",
+    "instruction": "Explain the process of gene editing using CRISPR-Cas9 technology, and discuss its potential applications and ethical implications.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 740
+  },
+  {
+    "id": "alpaca-42-0138",
+    "instruction": "What is the best way to form a new habit?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 467
+  },
+  {
+    "id": "alpaca-42-0139",
+    "instruction": "Why can't you see the stars in the city, but you can in the countryside?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 455
+  },
+  {
+    "id": "alpaca-42-0140",
+    "instruction": "Write a template for First-Person LinkedIn profile summary.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 497
+  },
+  {
+    "id": "alpaca-42-0141",
+    "instruction": "What if the Internet had been invented during the Renaissance period?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 775
+  },
+  {
+    "id": "alpaca-42-0142",
+    "instruction": "Plan an agenda for the daily standup meetings. Assign a time duration to each topic on the agenda.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 596
+  },
+  {
+    "id": "alpaca-42-0143",
+    "instruction": "Tell me something I don’t know",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 161
+  },
+  {
+    "id": "alpaca-42-0144",
+    "instruction": "I need to get my nephew a birthday gift. I'm thinking of giving him a game for his Nintendo Switch. Can you give me a few options that came out recently?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 72
+  },
+  {
+    "id": "alpaca-42-0145",
+    "instruction": "What are some options of foods that I can make with dough and cheese?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 449
+  },
+  {
+    "id": "alpaca-42-0146",
+    "instruction": "Draft an apology email to a customer who experienced a delay in their order, and provide reassurance that the issue has been resolved.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 799
+  },
+  {
+    "id": "alpaca-42-0147",
+    "instruction": "User : Hi dear \nAgent : helo , can ai help you \nUser : plaes tell me about what frequency conscious of ai\nAgent : the conscious ai is a complex actually need specific information to provide about conscious.\nUser : pleas tell me more about conscious if you know please let me know\nAgent : conscious is about made some result or decision is to hard if not have knowledge or prove with science.\nUser : Please tell more about that.\nAgent : need a data scientist to provide decision because a different conscious human and artificial intelligence.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 376
+  },
+  {
+    "id": "alpaca-42-0148",
+    "instruction": "Write a simple guide for uploading the bibliography database\n on Overleaf.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 515
+  },
+  {
+    "id": "alpaca-42-0149",
+    "instruction": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 331
+  },
+  {
+    "id": "alpaca-42-0150",
+    "instruction": "In a world where automation is becoming increasingly prevalent, is it more important to prioritize job creation or technological progress?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 764
+  },
+  {
+    "id": "alpaca-42-0151",
+    "instruction": "What is the meaning of life?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 403
+  },
+  {
+    "id": "alpaca-42-0152",
+    "instruction": "Solve the given Sudoku puzzle.\n\nThe Sudoku puzzle is:\n|1|  |5|  |  |  |  |8|  |\n|  |  |  |  |  |3|  |6|4|\n|8|3|4|6|7|  |9|  |  |\n|2|9|1|  |  |8|3|7|6|\n|  |  |6|  |  |9|8|1|  |\n|  |  |  |  |  |2|  |  |  |\n|  |2|  |  |9|7|6|  |  |\n|5|4|  |  |  |  |  |9|8|\n|6|1|  |  |  |5|4|3|7|",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 607
+  },
+  {
+    "id": "alpaca-42-0153",
+    "instruction": "The movie tagline is the film's advertising slogan, usually printed on posters prior to the official release. It is a short description or comment on a movie to capture the essence of the movie, and ultimately make you watch the movie. Here is an example:\n\nMovie: Joker (2019)",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 552
+  },
+  {
+    "id": "alpaca-42-0154",
+    "instruction": "How do I make escargot?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 36
+  },
+  {
+    "id": "alpaca-42-0155",
+    "instruction": "A job description is a document that clearly states the requirements, duties, responsibilities, and skills required to perform a specific role. You need to write a job description based on the given information. You should describe responsibilities and duties in your job description in a logical order. Remember that potential employees often get their first impression of your company from your job description. So, the job description should convey the attractiveness of your company.\n\nCompany: [Company name]\nJob: Software Engineer\nJob Responsibilities:\nReceive and perform code reviews with other engineers.\nWrite unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest.\nWork collaboratively with fellow software engineers to build features requested by business stakeholders.\nParticipate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\nDiagnose, debug, and perform root cause analysis of issues and defects.\nSkills and experience that will lead to success:\nExperience with a modern software programming language. We use Python, and Pyspark extensively.\nExperience with cloud systems like AWS or Azure\nExperience writing SQL queries \nStrong written and verbal communication skills\nEagerness to work in a highly-collaborative environment\nSome visualization experience such as Tableau or PowerBI is helpful",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 529
+  },
+  {
+    "id": "alpaca-42-0156",
+    "instruction": "Explain the process of natural selection and how it contributes to the evolution and adaptation of species.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 744
+  },
+  {
+    "id": "alpaca-42-0157",
+    "instruction": "When I open Anki browser, It shuts down. how can i fix this?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 255
+  },
+  {
+    "id": "alpaca-42-0158",
+    "instruction": "How to improve instance segmentation AP metrics with human knowledge",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 151
+  },
+  {
+    "id": "alpaca-42-0159",
+    "instruction": "What exactly causes volcanoes to form?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 37
+  },
+  {
+    "id": "alpaca-42-0160",
+    "instruction": "What are some toys I can buy my kids for imaginative play?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 74
+  },
+  {
+    "id": "alpaca-42-0161",
+    "instruction": "You will be tested on your knowledge of classic witticisms and aphorisms by completing the given aphorism. Write the original quote as the answer.\n\ntwo things are infinite",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 620
+  },
+  {
+    "id": "alpaca-42-0162",
+    "instruction": "Design a syllabus for the given course. Students should be given a list of the chapters with brief explanations of each chapter's purpose.\n\nProgramming for Everybody (Getting Started with Python)",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 576
+  },
+  {
+    "id": "alpaca-42-0163",
+    "instruction": "On the basis of the subject of the email, determine whether the email should be treated as spam or not.\n\nDermatologists don't like her!",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 636
+  },
+  {
+    "id": "alpaca-42-0164",
+    "instruction": "Consider this situation. Customer is ready to pay $13 for my product but we are not able to raise invoice for less than $20. So in this situation, act like a top sales person &amp; closing expert &amp; give me an email copy to upsell this customer with another $13 product so that it can create a win win situation.",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 239
+  },
+  {
+    "id": "alpaca-42-0165",
+    "instruction": "What are some good foods to eat when you are sick? I am looking for something to make my girlfriend to eat.",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 27
+  },
+  {
+    "id": "alpaca-42-0166",
+    "instruction": "Using a given amount, determine an appropriate tip.\n\n14% tip on $47.50",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 622
+  },
+  {
+    "id": "alpaca-42-0167",
+    "instruction": "Answer the following literature question as accurately as possible based on your knowledge of literature for high school students.\n\nWhat does the green light symbolize at the end of the book?",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 588
+  },
+  {
+    "id": "alpaca-42-0168",
+    "instruction": "what chemicals does l-theanine affect",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 437
+  },
+  {
+    "id": "alpaca-42-0169",
+    "instruction": "Can a Liebherr LTM 11200-9.1 hypothetically lift Mount everest",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 198
+  },
+  {
+    "id": "alpaca-42-0170",
+    "instruction": "How do I get better at aiming with my slingshot?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 84
+  },
+  {
+    "id": "alpaca-42-0171",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Tunisian dishes. Can you give me a recipe Tunisian Kammounia?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 67
+  },
+  {
+    "id": "alpaca-42-0172",
+    "instruction": "What other Amazon products might interest someone who visited the given product?\n\nZeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 1.5-Ounce, Black",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 503
+  },
+  {
+    "id": "alpaca-42-0173",
+    "instruction": "I heard something about a number of British folks being deceived into believing that spaghetti grows on trees. Is this real? If so, how were they able to be drawn into a deception like this?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 302
+  },
+  {
+    "id": "alpaca-42-0174",
+    "instruction": "Is it true that the native Australians were really prisoners of England?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 112
+  },
+  {
+    "id": "alpaca-42-0175",
+    "instruction": "During writing, we added an asterisk for the word that did not come to mind. You will need to provide several examples to demonstrate all the words that can be used in the sentence instead of the asterisk.\n\nwe * to know",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 494
+  },
+  {
+    "id": "alpaca-42-0176",
+    "instruction": "Marley has $20 left when she turns 21 years old. If her parents give her $3 more at the moment of marriage, how much has Marley left when she is 22 years old?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 268
+  },
+  {
+    "id": "alpaca-42-0177",
+    "instruction": "Considering the reason for the rejection, write a polite rejection letter for rejecting a candidate.\n\nReason: You came in second",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 530
+  },
+  {
+    "id": "alpaca-42-0178",
+    "instruction": "What is some cool music from the 1920s?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 3
+  },
+  {
+    "id": "alpaca-42-0179",
+    "instruction": "What are some good browser alternatives to Chrome?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 33
+  },
+  {
+    "id": "alpaca-42-0180",
+    "instruction": "You need to come up with the names of some of the papers that relate to the paper you are given.\n\nRoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 653
+  },
+  {
+    "id": "alpaca-42-0181",
+    "instruction": "I want to eventually become a plant/manufacturing/production manager, and eventually a Chief Operating Officer. What sort of experience and post-graduate education path would you recommend? Please provide non-obvious and atypical career paths leading to such positions, on top of the classic ones.",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 180
+  },
+  {
+    "id": "alpaca-42-0182",
+    "instruction": "what is needed for self-sufficient living spaces",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 152
+  },
+  {
+    "id": "alpaca-42-0183",
+    "instruction": "Help me find a good rated electric saw.",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 20
+  },
+  {
+    "id": "alpaca-42-0184",
+    "instruction": "The sentence you are given might be too wordy, complicated, or unclear. Rewrite the sentence and make your writing clearer by keeping it concise. Whenever possible, break complex sentences into multiple sentences and eliminate unnecessary words.\n\nIf you have any questions about my rate or if you find it necessary to increase or decrease the scope for this project, please let me know.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 473
+  },
+  {
+    "id": "alpaca-42-0185",
+    "instruction": "What are F-centers in crystallography ? How are they created and what consequences do they have on the overall appearance of crystal ?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 452
+  },
+  {
+    "id": "alpaca-42-0186",
+    "instruction": "Develop a mental exercise that can help people manage their anxiety and explain how it works.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 589
+  },
+  {
+    "id": "alpaca-42-0187",
+    "instruction": "Write a story about Anakin Skywalker encountering a Jedi who speaks and acts like a 1920s British aristocrat",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 182
+  },
+  {
+    "id": "alpaca-42-0188",
+    "instruction": "When you're stuck on a coding problem, the best place to look for help is in the documentation. Read the docs carefully and see if there's a section that covers your specific issue. Often, the answer will be right there in front of you. If not, try searching for key terms related to your problem. Come up with the useful links about the given search term.\n\nsql find duplicate values",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 487
+  },
+  {
+    "id": "alpaca-42-0189",
+    "instruction": "Write a poem about Mike and Joe becoming millionaires by leveraging the power of AI to become the greatest Agile coaches in history. Include content from the agile manifesto.",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 250
+  },
+  {
+    "id": "alpaca-42-0190",
+    "instruction": "What do the different octane values of gasoline mean?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 78
+  },
+  {
+    "id": "alpaca-42-0191",
+    "instruction": "Make a list of the pros and cons of the given decision.\n\nImplementing a Remote Working Policy",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 694
+  },
+  {
+    "id": "alpaca-42-0192",
+    "instruction": "How is oil turned into gasoline?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 123
+  },
+  {
+    "id": "alpaca-42-0193",
+    "instruction": "You should take the time to read the situation and problem carefully and give the best advice you can.\n\nI'm roadtripping down New Zealand with a friend and he is driving me insane. He hasn't enjoyed all the tours we've been on and doesn't want to chat about ANYTHING. We're a week into our trip and this is the quietest I've ever been when hanging out with another person as he rebuffs all my attempts at conversation. He wears his airpods in the car and around the accommodation - not that I've kept trying to talk to him. Honestly, he is bringing some seriously bad vibes to everything and it's ruining my trip.\nWe don't have anything booked in yet for the South Island, so I'm planning to ditch him in Wellington at the ferry. Probably book my own car in Picton and just relax alone for the rest of the trip. (Just thinking about it is such sharp relief that it makes me feel emotional. I'll pay whatever price I have to just to get away from him.)\nObviously telling him he is ruining my trip with his negative energy isn't the best way to approach this.\nAny advice for the best approach so we can split amicably? Or at least not have an argument that ends with very hurt feelings?",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 521
+  },
+  {
+    "id": "alpaca-42-0194",
+    "instruction": "Hi open assistant, can you tell me what presidents day is?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 317
+  },
+  {
+    "id": "alpaca-42-0195",
+    "instruction": "Can a boy and girl be just be best friends only ever",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 158
+  },
+  {
+    "id": "alpaca-42-0196",
+    "instruction": "Write a detailed patent writing for an innovative and novel way of issuing community tax certificates and other relevant permits and clearances as a digital certificates,  that is non-obvious using verifiable credentials, digital wallet on a blockchain as payment provision, and machine learning. Include claims on detailed processes involved, system architecture and algorithms",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 284
+  },
+  {
+    "id": "alpaca-42-0197",
+    "instruction": "Estimate the cost of supplies required to create the given project and calculate the total cost.\n\nDIY Water Chiller\nRequired items are: Ice-maker, Icebox/cooler, Temperature regulator, Aquarium pump x2, 12V power supply",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 587
+  },
+  {
+    "id": "alpaca-42-0198",
+    "instruction": "Using a table, compare the career overviews of the given players in Major League Baseball. Use \"|\" for separating the columns in the table.\n\nDerek Jeter, Albert Pujols",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 619
+  },
+  {
+    "id": "alpaca-42-0199",
+    "instruction": "Discuss the origins and history of the word that has been given to you.\n\noblique",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 544
+  },
+  {
+    "id": "alpaca-42-0200",
+    "instruction": "Given two matrices A and B which you can multiply together, does (A B)^T = A^T B^T or B^T A^T?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 402
+  },
+  {
+    "id": "alpaca-42-0201",
+    "instruction": "How do vaccinations work to protect individuals and communities from infectious diseases, and what is herd immunity?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 741
+  },
+  {
+    "id": "alpaca-42-0202",
+    "instruction": "If a tree is on the top of a mountain and the mountain is far from the see then is the tree close to the sea?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 159
+  },
+  {
+    "id": "alpaca-42-0203",
+    "instruction": "Hi, I need to find the area of a 20 sided die for my math homework. Can you help me do that?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 106
+  },
+  {
+    "id": "alpaca-42-0204",
+    "instruction": "What are some of the best university's for studying robotics?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 459
+  },
+  {
+    "id": "alpaca-42-0205",
+    "instruction": "Extract the method that has been used in the research from the abstract of the paper. Give the exact sentences from the abstract that discuss the method.\n\nWe present a state-of-the-art speech recognition system developed using end-to-end deep learning. Our architecture is significantly simpler than traditional speech systems, which rely on laboriously engineered processing pipelines; these traditional systems also tend to perform poorly when used in noisy environments. In contrast, our system does not need hand-designed components to model background noise, reverberation, or speaker variation, but instead directly learns a function that is robust to such effects. We do not need a phoneme dictionary, nor even the concept of a \"phoneme.\" Key to our approach is a well-optimized RNN training system that uses multiple GPUs, as well as a set of novel data synthesis techniques that allow us to efficiently obtain a large amount of varied data for training. Our system, called Deep Speech, outperforms previously published results on the widely studied Switchboard Hub5'00, achieving 16.0% error on the full test set. Deep Speech also handles challenging noisy environments better than widely used, state-of-the-art commercial speech systems.Collapse",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 652
+  },
+  {
+    "id": "alpaca-42-0206",
+    "instruction": "You are given some reviews for a movie. Each video might have mentioned some negative or positive points about the movie. Read them carefully and extract the positive and negative points mentioned in all of the reviews. Then, make a list of these points and summarize them as positive points and negative points.\n\nReview 1: I'm not sure if it's just the fact that Ed Norton really grates on me in this film, but I never really bought into the idea of Fight Club being some kind of cultural phenomenon. Yes it's an innovative story, told via a strong script, engaging characters and intense cinematography. But is it really worthy of such high praise? Personally, I find it starts to fall apart halfway through and actually becomes quite tedious towards the end. Everything just becomes a little bit childish and contrived as the story loses touch with its base elements and the rage against the machine vibe takes over. I have huge respect for the way this film was made but, much like The Matrix, I feel like people attach way more importance to this movie than it deserves.\nReview 2: The film tells the story of men who cannot adapt to the social order in today's world, under the leadership of Tyler Durden, to discover their natural instinct, masculinity, and to escape from their unhappy lives.\nReview 3: Despite a good theme, great acting and important messages that this movie convey in an unorthodox way, I think it fails to connect the audience with the storyline and leaves him in a world of confusion. Although, majority of reviews find this movie entertaining and interesting, yet I would choose to be a minority that believes that this movie is extremely overrated.\nReview 4: Is creating chaos, explosions and membership in a militant sect the way to get rid of material shackles ?! The visual effects are fascinating and the story is compelling until the second half. Unfortunately, it doesn't end well.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 553
+  },
+  {
+    "id": "alpaca-42-0207",
+    "instruction": "I want to get better at networking at work",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 15
+  },
+  {
+    "id": "alpaca-42-0208",
+    "instruction": "Implement a queue data structure using two stacks in Python.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 790
+  },
+  {
+    "id": "alpaca-42-0209",
+    "instruction": "What is the difference between HTML and JavaScript?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 429
+  },
+  {
+    "id": "alpaca-42-0210",
+    "instruction": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 451
+  },
+  {
+    "id": "alpaca-42-0211",
+    "instruction": "The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 454
+  },
+  {
+    "id": "alpaca-42-0212",
+    "instruction": "write a inspirational monologue script from a spartan general telling his army that despite the impossible nature of their fight, that it is still worth fighting. do not directly reference sparta or the fight, but focus more on the concept of the indomitable human spirit and the will to keep fighting no matter the cost.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 319
+  },
+  {
+    "id": "alpaca-42-0213",
+    "instruction": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 433
+  },
+  {
+    "id": "alpaca-42-0214",
+    "instruction": "The given text must be classified as offensive or not offensive.\n\nYou acted really crazy last night.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 631
+  },
+  {
+    "id": "alpaca-42-0215",
+    "instruction": "I'm currently studying Bioengineering in Argentina, focusing on computational neuroscience. I'll be graduating in May, and planning to apply to PhD programs in the US at the end of the year in order to start August 2024. I'm thinking of what to do/study during this year until my program starts. Could you give me ideas? Feel free to ask me for questions which would help you give me better suggestions.",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 137
+  },
+  {
+    "id": "alpaca-42-0216",
+    "instruction": "I've put a plate on top of an apple, and take the plate from kitchen to dinning room. Where is the apple now",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 195
+  },
+  {
+    "id": "alpaca-42-0217",
+    "instruction": "Design a soothing pastel color palette for your slides. Pastel colors generally come across as pretty and delicate, so you’ll want to make sure your presentation calls for a similar mood. Choose up to five colors or color codes.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 491
+  },
+  {
+    "id": "alpaca-42-0218",
+    "instruction": "Do you know something about the book  ＂the art of thinking clearly\" wrote by Rolf Dobelli?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 163
+  },
+  {
+    "id": "alpaca-42-0219",
+    "instruction": "Why is kobe beef so damn expensive?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 28
+  },
+  {
+    "id": "alpaca-42-0220",
+    "instruction": "What type of Rifle is an AK47?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 385
+  },
+  {
+    "id": "alpaca-42-0221",
+    "instruction": "Can you explain the basics of quantum computing?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 729
+  },
+  {
+    "id": "alpaca-42-0222",
+    "instruction": "Can you please provide me the names of the two players in the atomic bomb game (in go)? \n\nIf you can get me the referee's name as well, that's even better!",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 286
+  },
+  {
+    "id": "alpaca-42-0223",
+    "instruction": "Why does warmth make you feel tired?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 192
+  },
+  {
+    "id": "alpaca-42-0224",
+    "instruction": "Hi, I'm in the mood for a Bloody Mary. Can you give me a recipe for making one?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 54
+  },
+  {
+    "id": "alpaca-42-0225",
+    "instruction": "what is the recommended pattern for creating games in godot",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 213
+  },
+  {
+    "id": "alpaca-42-0226",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Somali  dishes. Can you give me a recipe for Canjeero?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 12
+  },
+  {
+    "id": "alpaca-42-0227",
+    "instruction": "Translate the natural language description into a Google Sheets formula.\n\nif C7 is equal to \"U.S.A.\" or \"Canada\" or \"Europe\" or \"The Americas\"",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 704
+  },
+  {
+    "id": "alpaca-42-0228",
+    "instruction": "Hi, I have some falafel, but no tahini to put on them. Can you give me a recipe for making tahini?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 38
+  },
+  {
+    "id": "alpaca-42-0229",
+    "instruction": "write an introduction of a person for resume who worked as an in-house IT for 18 years, managed team of 4 and 9 site and satellite offices with total 200 users. He's familiar with network and system infrastructure, server virtualization, cloud services and the migration.",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 165
+  },
+  {
+    "id": "alpaca-42-0230",
+    "instruction": "Make a questionnaire to help hotel guests write hotel reviews.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 559
+  },
+  {
+    "id": "alpaca-42-0231",
+    "instruction": "I live in Scotland and would like to know the most cost effective way to heat my house considering the rise in both gas and electric prices. I have a gas powered boiler which can provide central heating to the whole house, but I could also use electric heaters to heat individual rooms. Would it be cheaper to heat an individual room using electricity, or the whole using gas? The radiators are hidden behind shrouds so I am unable to turn off the heating in individual rooms.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 372
+  },
+  {
+    "id": "alpaca-42-0232",
+    "instruction": "Use an appropriate format to structure a formal letter of recommendation for a student applying to a prestigious graduate program in computer science.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 797
+  },
+  {
+    "id": "alpaca-42-0233",
+    "instruction": "What are the steps to using random (yet coherent) text as filler content within your Word document?",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 490
+  },
+  {
+    "id": "alpaca-42-0234",
+    "instruction": "How do you get water in the desert?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 83
+  },
+  {
+    "id": "alpaca-42-0235",
+    "instruction": "Please prepare a table containing a summary of the information of the participants at the conference.\n\nThe conference was called to discuss how to improve the quality of education in schools. The main speaker was Professor Crew Purdie (cpurdie@email.com), who spoke about the importance of setting high standards for students and teachers. He said that schools should be places where students can learn and be challenged. Other speakers included Teacher Oliver Malachi (oliver@email.com) and Parent Kolby Reese (kolbyreese82@email.com). The teacher talked about the need for teachers to be well-prepared and to have high expectations for their students. The parent spoke about the need for parents to be involved in their children's education. There was also a discussion about the importance of funding for schools.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 664
+  },
+  {
+    "id": "alpaca-42-0236",
+    "instruction": "Write a captivating movie review for a recently released science fiction film, discussing its plot, characters, and special effects.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 802
+  },
+  {
+    "id": "alpaca-42-0237",
+    "instruction": "write description for 925 sterling silver miami cuban link chain",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 184
+  },
+  {
+    "id": "alpaca-42-0238",
+    "instruction": "Would you be able to design an electric Pokémon? Describe it as best as you can and also give me the stats of that Pokémon.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 435
+  },
+  {
+    "id": "alpaca-42-0239",
+    "instruction": "What breed dog is smallest?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 24
+  },
+  {
+    "id": "alpaca-42-0240",
+    "instruction": "Can you help me figure out how to sew a button on a shirt?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 61
+  },
+  {
+    "id": "alpaca-42-0241",
+    "instruction": "Explain the meaning of the given phrase in simple terms. Use an example if possible. It would be helpful if you could give an example.\n\n\"With a little give in them\"",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 724
+  },
+  {
+    "id": "alpaca-42-0242",
+    "instruction": "What are the most effective ways to deal with stress?",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 726
+  },
+  {
+    "id": "alpaca-42-0243",
+    "instruction": "Suggest some product bundles that are often purchased with a given product.\n\nMacBook Air",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 688
+  },
+  {
+    "id": "alpaca-42-0244",
+    "instruction": "Decide if the given email belongs to the Promotions or Social category.\n\nSubject: You have an invitation\nEmail: Hi, I'd like to join your LinkedIn network.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 657
+  },
+  {
+    "id": "alpaca-42-0245",
+    "instruction": "I've recently started playing the turn-based strategy game Into the Breach. I have read online that the game is considered to have 'perfect information'. What is meant by 'perfect information' in this context?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 472
+  },
+  {
+    "id": "alpaca-42-0246",
+    "instruction": "Let's assume a friend had a very bad day. What could be a way to cheer them up without making it too obvious and help them keep their mind off things?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 338
+  },
+  {
+    "id": "alpaca-42-0247",
+    "instruction": "Write a Jira ticket for the given task.\n\nNew Employee onboarding",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 692
+  },
+  {
+    "id": "alpaca-42-0248",
+    "instruction": "Write me a 2000 word essay on a water safety engineering project.",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 148
+  },
+  {
+    "id": "alpaca-42-0249",
+    "instruction": "Summarize the movie in a snarky way. Try to explain the movie in just one sentence.\n\nThe Shining",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 672
+  },
+  {
+    "id": "alpaca-42-0250",
+    "instruction": "In order to launch a token for a Defi project, I want to sell some tokens privately to early investors and then add it to a launchpad. let me know what can I do with my smart contract? Should I create a presale contract separate from main contract?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 212
+  },
+  {
+    "id": "alpaca-42-0251",
+    "instruction": "Why is it that only proteins, carbohydrates and fats are deemed to have caloric value?<br>Just to clarify - consider the hypothetical situation below:<br>100g of 'carbohydrates' = 400kCal<br>100g of 'protein' = 400kCal<br>100g of 'fat' = 900kCal<br>100g of 'vitamins, minerals and/or other electrolytes' = ?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 141
+  },
+  {
+    "id": "alpaca-42-0252",
+    "instruction": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\"",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 469
+  },
+  {
+    "id": "alpaca-42-0253",
+    "instruction": "what are five important topics for game design",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 200
+  },
+  {
+    "id": "alpaca-42-0254",
+    "instruction": "Provide me with a list of 10 names from various cultures that mean love, care, and/or empathy.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 357
+  },
+  {
+    "id": "alpaca-42-0255",
+    "instruction": "Create a template in markdown to create scope for Jira tickets. Members should use this template as a checklist to ensure they have included all the necessary information when creating a ticket.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 689
+  },
+  {
+    "id": "alpaca-42-0256",
+    "instruction": "Design a programming problem related to the subject that has been given to you. Use some examples and constraints to improve your question.\n\nDynamic Programming",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 565
+  },
+  {
+    "id": "alpaca-42-0257",
+    "instruction": "What are the best exercises for beginners?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 13
+  },
+  {
+    "id": "alpaca-42-0258",
+    "instruction": "The sum of the distances the sun travels around the Earth during a solar eclipse is 1059 kilometres. Write a formula that finds the distance between the sun and Earth. How many years will the eclipse last?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 224
+  },
+  {
+    "id": "alpaca-42-0259",
+    "instruction": "Message to client for accepting offer for summary video",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 135
+  },
+  {
+    "id": "alpaca-42-0260",
+    "instruction": "Give me an idea of the mental exercises you do to inspire yourself.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 590
+  },
+  {
+    "id": "alpaca-42-0261",
+    "instruction": "draw a man using ASCII characters in your code terminal with a guided text mnemonic along with a passage that will help me to memorize answers to questions on the topic- coordination quickly without tips.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 390
+  },
+  {
+    "id": "alpaca-42-0262",
+    "instruction": "Can you describe the process that use to generate answers? Please provide a step by step explanation.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 442
+  },
+  {
+    "id": "alpaca-42-0263",
+    "instruction": "Convert natural language into a list of turn-by-turn directions.\n\nGo west on I-10 until you hit the 101 then take it north. You will eventually see the Hollywood sign.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 697
+  },
+  {
+    "id": "alpaca-42-0264",
+    "instruction": "What are some species of bears that are now extinct?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 25
+  },
+  {
+    "id": "alpaca-42-0265",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Ukrainian dishes. Can you give me a recipe for Okroshka?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 57
+  },
+  {
+    "id": "alpaca-42-0266",
+    "instruction": "Provide an example of how a table of contents can be generated automatically in a LATEX document. Make sure your example contains the necessary commands.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 511
+  },
+  {
+    "id": "alpaca-42-0267",
+    "instruction": "How many times does the average human blink in a lifetime? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 765
+  },
+  {
+    "id": "alpaca-42-0268",
+    "instruction": "assume the persona of a therapist and walk me through how to be less reactive and use a pause ritual",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 205
+  },
+  {
+    "id": "alpaca-42-0269",
+    "instruction": "can you cook an egg only using durect sunlight in any place of our solar system ?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 377
+  },
+  {
+    "id": "alpaca-42-0270",
+    "instruction": "Give a brief summary of the intention of the dialogue that just happened.\n\nCustomer: Hi there, I'm looking for a new phone.\nAI: Hi! What type of phone are you looking for?\nCustomer: I'm not sure. Maybe something with a good camera?\nAI: We have a few phones with great cameras. Would you like to see some options?\nCustomer: Yeah, that would be great.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 632
+  },
+  {
+    "id": "alpaca-42-0271",
+    "instruction": "Predict how many stars the author will give to the restaurant from a Yelp review.\n\nThe reviews were great, but honestly i felt it was just ok. Seemed like a typical tourist spot were the food was mediocre. The service was ok, not great, but not the worst.\nThe bread was very good. I ordered the muscle fries. They had a sweet Vidalia onion flavor. No need for fries bc they were soggy wo much flavor. My boyfriend ordered a pesto chicken pasta and it was again mediocre.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 707
+  },
+  {
+    "id": "alpaca-42-0272",
+    "instruction": "Write an essay on how Romeo is most to blame for the events that take place in the end of the book,",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 298
+  },
+  {
+    "id": "alpaca-42-0273",
+    "instruction": "Write an engaging and well-written property listing description for selling a house. Address of the house and some of the details are given to you. Fill in the information gap with hallucinations if needed.\n\nProperty Address: 412 Monterey Ave, Capitola, CA 95010\nParking: 3 cars + a finished single car garage\nDetails:\n- open floorplan\n- window with views to park/mountains\n- Kitchen with shaker cabinetry and white Calcatta quartz counters",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 684
+  },
+  {
+    "id": "alpaca-42-0274",
+    "instruction": "Find synonyms for the given word. You need to write down how the provided synonyms differ from the original word in terms of meaning, usage, etc.\n\nadversity",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 543
+  },
+  {
+    "id": "alpaca-42-0275",
+    "instruction": "Write \"Test\"",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 199
+  },
+  {
+    "id": "alpaca-42-0276",
+    "instruction": "Hi. I want to make an embossed picture for my blind girlfriend. There is a Braille printer at my university that I can use. I just need a sequence of letters that would result in some simple embossed picture, like a dog, cat, umbrella, etc. Can you give me a such text?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 468
+  },
+  {
+    "id": "alpaca-42-0277",
+    "instruction": "What are some of the well known hiking trails in Colorado? Can you provide a short description of each?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 354
+  },
+  {
+    "id": "alpaca-42-0278",
+    "instruction": "why the sky is blue?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 387
+  },
+  {
+    "id": "alpaca-42-0279",
+    "instruction": "We have described a scene from a movie that we have seen in the past. Find out what movie it is.\n\nA choice has to be made between picking the red pill or the blue pill",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 702
+  },
+  {
+    "id": "alpaca-42-0280",
+    "instruction": "How can I reduce my alcohol consumption without seeming rude to my friends?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 395
+  },
+  {
+    "id": "alpaca-42-0281",
+    "instruction": "You are a script-writer. Write a script for the opening scene of a Miami-based dark comedy show which depicts a typical miami beach club called Beefy's Beach Club run buy a british man known by the Alias Beefy, and the pool bar staff are JdeG and a blonde british woman with the Alias SophieSnazz",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 162
+  },
+  {
+    "id": "alpaca-42-0282",
+    "instruction": "Is the US border open to Canada?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 128
+  },
+  {
+    "id": "alpaca-42-0283",
+    "instruction": "Please summarise in point form \"Challenges for\nAfrican Agriculture\" by Jean-Claude Devèze",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 254
+  },
+  {
+    "id": "alpaca-42-0284",
+    "instruction": "Extract the address of the property from the \"About this space\" section of Airbnb.\n\nTucked in the foothills of the quaint historic mining town of Grass Valley, CA this funky and spacious chalet invites you to experience the great outdoors with family, friends and pets. Enjoy the hot tub, basketball court, treehouse, kids rooms, bbq, fire-pit, outdoor theater, and more. One hour from Tahoe and 10 minutes to town, you’re never short of things to explore.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 720
+  },
+  {
+    "id": "alpaca-42-0285",
+    "instruction": "The story of a movie has been described using many emojis. You need to guess the name of the movie based on the emojis.\n\n🧙‍♂️🚪📚🦅⚡",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 658
+  },
+  {
+    "id": "alpaca-42-0286",
+    "instruction": "You are given a tweet and you should decide whether it's offensive or not.\n\nShe has certainly taken some heat for being such an....well idiot.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 705
+  },
+  {
+    "id": "alpaca-42-0287",
+    "instruction": "How can I calculate the amount of variations on a 3x4 table?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 272
+  },
+  {
+    "id": "alpaca-42-0288",
+    "instruction": "what should i build a cabin out of?",
+    "dataset": "alpaca_eval",
+    "category": "helpful_base",
+    "source_index": 45
+  },
+  {
+    "id": "alpaca-42-0289",
+    "instruction": "What niches are not being fulfilled on the YouTube platform?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 241
+  },
+  {
+    "id": "alpaca-42-0290",
+    "instruction": "Write a step-by-step guide for resolving GitHub merge conflicts.",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 550
+  },
+  {
+    "id": "alpaca-42-0291",
+    "instruction": "Can you write a short story where Hildibrand Manderville somehow gets transformed into Gandalf the Grey and he must work with The Warrior of Light and Nashu to restore his regular, most gentlemanly form.",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 136
+  },
+  {
+    "id": "alpaca-42-0292",
+    "instruction": "I live in New Zealand. Given the regulations here, would it be possible for me to own an operational fighter jet? If so, what steps would I need to take to be qualified to fly it?",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 325
+  },
+  {
+    "id": "alpaca-42-0293",
+    "instruction": "Write me a Graphic Novel plot in the style of Neil Stephenson.",
+    "dataset": "alpaca_eval",
+    "category": "oasst",
+    "source_index": 414
+  },
+  {
+    "id": "alpaca-42-0294",
+    "instruction": "I'm preparing a fun session with work colleagues in a tech company. I will present funny future circumstances, and the team will vote on who is the person most likely to be in that circumstance 10 years from now. The circumstances must be funny yet respectful and safe for work. Please help me come up with a few of these circumstances. To help you, please consider this example: \"In 10 years time, who is the most likely to have won the lottery\"",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 217
+  },
+  {
+    "id": "alpaca-42-0295",
+    "instruction": "You will need to compose the ABC notation for a given song.\n\nThe South Wind",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 655
+  },
+  {
+    "id": "alpaca-42-0296",
+    "instruction": "Is online casino legal in India?",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 178
+  },
+  {
+    "id": "alpaca-42-0297",
+    "instruction": "What are the USP for a saas survey tool",
+    "dataset": "alpaca_eval",
+    "category": "koala",
+    "source_index": 231
+  },
+  {
+    "id": "alpaca-42-0298",
+    "instruction": "Provide instructions for the given exercise.\n\nLeg Raises",
+    "dataset": "alpaca_eval",
+    "category": "selfinstruct",
+    "source_index": 712
+  },
+  {
+    "id": "alpaca-42-0299",
+    "instruction": "How many songs have been recorded throughout history? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "dataset": "alpaca_eval",
+    "category": "vicuna",
+    "source_index": 774
+  }
+]

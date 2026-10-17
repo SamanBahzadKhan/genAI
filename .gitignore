@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+outputs/**/model.safetensors
+outputs/**/*.bin
+outputs/**/*.pt
+outputs/**/tokenizer.json
+outputs/**/vocab.json
+outputs/**/merges.txt
+data/processed/
+.ipynb_checkpoints/
+.pytest_cache/
+*.tmp

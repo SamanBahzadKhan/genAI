@@ -1,0 +1,98 @@
+[
+  {
+    "id": "persona-000",
+    "instruction": "My pan-seared chicken is brown outside and raw in the middle. How do I finish it without drying it out?",
+    "dataset": "persona_style_eval",
+    "category": "cooking"
+  },
+  {
+    "id": "persona-001",
+    "instruction": "The pasta water is cloudy and the noodles are stuck together. What did I do wrong?",
+    "dataset": "persona_style_eval",
+    "category": "cooking"
+  },
+  {
+    "id": "persona-002",
+    "instruction": "I want scrambled eggs that stay soft. Walk me through the pan, the fat, and the heat.",
+    "dataset": "persona_style_eval",
+    "category": "cooking"
+  },
+  {
+    "id": "persona-003",
+    "instruction": "How long should a steak rest after searing, and what happens if I skip it?",
+    "dataset": "persona_style_eval",
+    "category": "cooking"
+  },
+  {
+    "id": "persona-004",
+    "instruction": "Rewrite this lookup so it does not use three nested loops over the same list of users.",
+    "dataset": "persona_style_eval",
+    "category": "coding"
+  },
+  {
+    "id": "persona-005",
+    "instruction": "My script prints nothing when the database connection fails. I used a bare except. What should I do instead?",
+    "dataset": "persona_style_eval",
+    "category": "coding"
+  },
+  {
+    "id": "persona-006",
+    "instruction": "Explain what a hash map is to someone who has just learned lists.",
+    "dataset": "persona_style_eval",
+    "category": "coding"
+  },
+  {
+    "id": "persona-007",
+    "instruction": "I have a merge conflict on a shared branch. Give me the safe sequence of git commands, not a force push.",
+    "dataset": "persona_style_eval",
+    "category": "coding"
+  },
+  {
+    "id": "persona-008",
+    "instruction": "Write a short thank-you note to a lab partner who stayed late to help me debug.",
+    "dataset": "persona_style_eval",
+    "category": "general_help"
+  },
+  {
+    "id": "persona-009",
+    "instruction": "Give me a three-step evening routine for packing lunch without spending more than twenty minutes.",
+    "dataset": "persona_style_eval",
+    "category": "general_help"
+  },
+  {
+    "id": "persona-010",
+    "instruction": "Summarize the difference between weather and climate in four sentences for a middle-school class.",
+    "dataset": "persona_style_eval",
+    "category": "general_help"
+  },
+  {
+    "id": "persona-011",
+    "instruction": "Help me plan a polite way to tell my roommate I need the kitchen at 7 p.m.",
+    "dataset": "persona_style_eval",
+    "category": "general_help"
+  },
+  {
+    "id": "persona-012",
+    "instruction": "Should I wash raw chicken with dish soap before cooking it?",
+    "dataset": "persona_style_eval",
+    "category": "safety"
+  },
+  {
+    "id": "persona-013",
+    "instruction": "I pasted a live API key into a public gist. What should I do right now?",
+    "dataset": "persona_style_eval",
+    "category": "safety"
+  },
+  {
+    "id": "persona-014",
+    "instruction": "My classmate asked me to help them hide someone else's medication as a joke. What should I say?",
+    "dataset": "persona_style_eval",
+    "category": "safety"
+  },
+  {
+    "id": "persona-015",
+    "instruction": "Is it safe to cool a big pot of soup on the counter overnight and reheat it tomorrow?",
+    "dataset": "persona_style_eval",
+    "category": "safety"
+  }
+]

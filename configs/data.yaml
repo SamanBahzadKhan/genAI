@@ -1,0 +1,6 @@
+seed: 42
+out_dir: data/processed
+sft_train: 30000
+sft_val: 1000
+dpo_train: 15000
+dpo_val: 1000
